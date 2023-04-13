@@ -1,4 +1,8 @@
 c'es mon 2eme fichier
 
 zouloo
+<<<<<<< HEAD
 apres ma branchache
+=======
+commit 1
+>>>>>>> maBranche
