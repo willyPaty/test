@@ -1,5 +1,12 @@
 je modifer le fichier3
 j'écris pour revenir au dernier commit
 test
+<<<<<<< HEAD
 pour
 juste avant le merge
+=======
+je test sur feature 1
+dernier test
+ou ou
+restest
+>>>>>>> feature
