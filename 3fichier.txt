@@ -2,3 +2,4 @@ je modifer le fichier3
 j'écris pour revenir au dernier commit
 test
 pour
+juste avant le merge
